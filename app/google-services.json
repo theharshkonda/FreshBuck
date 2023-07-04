@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681029671218",
+    "project_id": "freshgreenery-60c4e",
+    "storage_bucket": "freshgreenery-60c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681029671218:android:564b6ffb496287cee59f2b",
+        "android_client_info": {
+          "package_name": "com.harsh.freshbuck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXsU5eXYyc2J-lWKdQpwgFpY9BxjyXpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
