@@ -20,11 +20,11 @@ management and authentication.
   
   <table>
   <tr>
-    <td><img src="screenshots/01" width=270 height=auto></td>
-    <td><img src="screenshots/02" width=270 height=auto></td>
-    <td><img src="screenshots/03" width=270 height=auto></td>
-    <td><img src="screenshots/04" width=270 height=auto></td>
-    <td><img src="screenshots/05" width=270 height=auto></td>
+    <td><img src="Screenshots/01" width=270 height=auto></td>
+    <td><img src="Screenshots/02" width=270 height=auto></td>
+    <td><img src="Screenshots/03" width=270 height=auto></td>
+    <td><img src="Screenshots/04" width=270 height=auto></td>
+    <td><img src="Screenshots/05" width=270 height=auto></td>
   </tr>
  </table>
 
