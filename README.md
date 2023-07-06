@@ -32,9 +32,11 @@ management and authentication.
  User has to first store the Address and Order the Products , click on th check button in cart for ordering.History of the orders is also visible in UserActivity.  
 <table>
   <tr>
-    <td><img src="screenshots/" width=270 height=auto></td>
-    <td><img src="screenshots/" width=270 height=auto></td>
-    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="Screenshots/02.jpeg" width=270 height=auto></td>
+    <td><img src="Screenshots/06.jpeg" width=270 height=auto></td>
+    <td><img src="Screenshots/07.jpeg" width=270 height=auto></td>
+    <td><img src="Screenshots/08.jpeg" width=270 height=auto></td>
+    <td><img src="Screenshots/09.jpeg" width=270 height=auto></td>
   </tr>
  </table>
 
