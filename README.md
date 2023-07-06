@@ -10,19 +10,21 @@ such as a user-friendly interface, product catalog with detailed descriptions an
 application also integrates with the Firebase backend platform for seamless data 
 management and authentication.
   
-  ## Admin and User in One App
+  # Admin and User in One App
 
   #Admin 
   Admin can upload the Vegetables Quantity,Amount,Availability and can also update it. It also has many features for confirming orders and Generating Report of the 
   orders.uploaded images and data is stored in firebase.
 
-  # Admin Login and Password to be Stored in Firebase
+  ## Admin Login and Password to be Stored in Firebase
   
   <table>
   <tr>
-    <td><img src="screenshots/" width=270 height=auto></td>
-    <td><img src="screenshots/" width=270 height=auto></td>
-    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="screenshots/01" width=270 height=auto></td>
+    <td><img src="screenshots/02" width=270 height=auto></td>
+    <td><img src="screenshots/03" width=270 height=auto></td>
+    <td><img src="screenshots/04" width=270 height=auto></td>
+    <td><img src="screenshots/05" width=270 height=auto></td>
   </tr>
  </table>
 
