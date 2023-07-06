@@ -1,40 +1,63 @@
-# EducationApp
+# FreshBuck
 
- Android Education App adding Design Course App UI
- 
- Base ProjectDesign: https://appsnipp.com/android-education-app-free-ui-with-dark-mode/
- 
- Original design credits and whatever https://dribbble.com/shots/6482664-Design-Course-App-UI
- 
- Design is in *Courses* item
- _Find your match added_ design added in *Seach* option
+The FreshBuck application is a user-friendly mobile platform designed to address the 
+challenges faced by busy individuals with early morning work commitments by providing 
+a convenient and efficient way to order organic vegetables, fruits, dairy products, and dry 
+fruits. The application aims to streamline the grocery shopping process and ensure timely 
+doorstep delivery before breakfast, saving valuable time for the users. Implemented using 
+Android Studio and written in Java, the FreshBuck application offers a range of features 
+such as a user-friendly interface, product catalog with detailed descriptions and prices. The 
+application also integrates with the Firebase backend platform for seamless data 
+management and authentication.
   
-  ## Libraries we use
+  ## Admin and User in One App
 
-This module use the following libraries:
+  #Admin 
+  Admin can upload the Vegetables Quantity,Amount,Availability and can also update it. It also has many features for confirming orders and Generating Report of the 
+  orders.uploaded images and data is stored in firebase.
 
-- [Androidx](https://developer.android.com/jetpack/androidx)
-- [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2)
-- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-- [Navigation](https://developer.android.com/guide/navigation)
-- [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
-- [Google Material Design](https://material.io/develop/android/docs/getting-started)
-
+  # Admin Login and Password to be Stored in Firebase
   
- ## 📸 Screenshots
-
-**Click the image below to enlarge.**
-
-<table>
+  <table>
   <tr>
-     <td></td>
-     <td></td>
-     <td></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/init_view.JPG" width=270 height=auto></td>
-    <td><img src="screenshots/screenshot-1587165564580.jpg" width=270 height=auto></td>
-    <td><img src="screenshots/screenshot-1597998427057.jpg" width=270 height=auto></td>
+    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="screenshots/" width=270 height=auto></td>
   </tr>
  </table>
+
+ # User
+ User has to first store the Address and Order the Products , click on th check button in cart for ordering.History of the orders is also visible in UserActivity.  
+<table>
+  <tr>
+    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="screenshots/" width=270 height=auto></td>
+    <td><img src="screenshots/" width=270 height=auto></td>
+  </tr>
+ </table>
+
+# Admin Access 
+
+```
+ To gain admin access, you need to add your email ID to the admin child in Firebase.
+ After adding it, try logging in with the same email ID, and you should see the Admin option.
+```
+
+##  Contributing
+
+Contributions are always welcome!
+
+
+# Clone the Repository
+
+##  License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<br/>
+<br/>
+
+<p align="center">If you liked the repository, show your  ❤️  by starring .</p>
+
+
 
