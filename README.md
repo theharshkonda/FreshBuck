@@ -12,7 +12,7 @@ management and authentication.
   
   # Admin and User in One App
 
-  #Admin 
+  # Admin 
   Admin can upload the Vegetables Quantity,Amount,Availability and can also update it. It also has many features for confirming orders and Generating Report of the 
   orders.uploaded images and data is stored in firebase.
 
